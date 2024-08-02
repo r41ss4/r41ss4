@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xian Harding</h1>
-<h3 align="center">I am an aspiring Data Analyst with a focus on international finance and services. Drawing from my experience in the fintech industry, I have developed multiple skills in understanding complex data and a keen eye for detail. My problem-solving mindset enables me to effectively analyze data and uncover valuable trends that drive informed decision-making.</h3>
+
+<p align="left"> I am an aspiring Data Analyst with a focus on international finance and services. Drawing from my experience in the fintech industry, I have developed multiple skills in understanding complex data and a keen eye for detail. My problem-solving mindset enables me to effectively analyze data and uncover valuable trends that drive informed decision-making.</p>
 
 - 🔭 I’m currently doing [MSc in International Management in Data Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)
 
