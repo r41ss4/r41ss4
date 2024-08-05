@@ -22,4 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
+<h2 align="center">My GitHub Stats <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=r41ss4&theme=algolia&show_icons=true)](https://github.com/r41ss4)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=r41ss4&theme=algolia&show_icons=true)](https://github.com/r41ss4/github-readme-stats)
