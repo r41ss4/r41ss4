@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MySQL, Python and Excel**
 
-- 🤝 I’m looking for jobs in **Data Analytics, preferebly in finance**
+- 🤝 I’m looking for jobs in **Data Analytics, preferably in finance**
 
 - 💬 I can speak in **English, Spanish and some (little) Italian**
 
