@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xian Harding</h1>
+<h1 align="center">Hi, I'm Xian 🔷</h1>
 
 <p align="left"> I am an aspiring Data Analyst with a focus on international finance and services. Drawing from my experience in the fintech industry, I have developed multiple skills in understanding complex data and a keen eye for detail. My problem-solving mindset enables me to effectively analyze data and uncover valuable trends that drive informed decision-making.</p>
 
