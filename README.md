@@ -2,17 +2,21 @@
 
 <p align="left"> I am an aspiring Data Analyst with a focus on international finance and services. Drawing from my experience in the fintech industry, I have developed multiple skills in understanding complex data and a keen eye for detail. My problem-solving mindset enables me to effectively analyze data and uncover valuable trends that drive informed decision-making.</p>
 
-- 🔭 I’m currently doing [MSc in International Management in Data Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)
+- 🔭 I’m currently doing **[MSc in International Management in Data Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)**
 
 - 🌱 I’m currently learning **MySQL, Python and Excel**
 
 - 🤝 I’m looking for jobs in **Data Analytics, preferably in finance**
 
-- 💬 I can speak in **English, Spanish and some (little) Italian**
+- 💬 I can speak fluently **English and Spanish**
 
 - 📫 How to reach me **xian.h.a@hotmail.com** or **+598 93483312**
 
-- 📄 Know about my experiences in fintechs and PwC in [my profile](https://www.linkedin.com/in/xianha/)
+- 📄 Know about my experiences in fintechs and PwC in **[my profile](https://www.linkedin.com/in/xianha/)**
+
+<h3 align="left">My projects:</h3>
+
+- 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
