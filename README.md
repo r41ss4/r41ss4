@@ -17,7 +17,7 @@
 <h3 align="left">My projects:</h3>
 
 - 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
-- 📄 **[Excel and fintechs PLIs](https://github.com/r41ss4/fintexcel/tree/main)
+- 📄 **[Excel and fintechs PLIs](https://github.com/r41ss4/fintexcel/tree/main)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
