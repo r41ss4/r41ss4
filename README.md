@@ -18,6 +18,7 @@
 
 - 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
 - 📄 **[Excel and fintechs PLIs](https://github.com/r41ss4/fintexcel/tree/main)**
+- 💳 **[Xiso: Payment application database with MySQL (in progress)](https://github.com/r41ss4/xisov1)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
