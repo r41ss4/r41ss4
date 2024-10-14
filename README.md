@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently doing **[MSc in International Management in Data Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)**
 
-- 🌱 I’m currently learning **MySQL, Python and Excel**
+- 🌱 I’m currently learning **Python and Data Management**
 
 - 🤝 I’m looking for jobs in **Data Analytics, preferably in finance**
 
@@ -20,15 +20,29 @@
 - 📄 **[Excel and fintechs PLIs](https://github.com/r41ss4/fintexcel/tree/main)**
 - 💳 **[Xiso: Payment application database with MySQL (in progress)](https://github.com/r41ss4/xisov1)**
 
-<h3 align="left">Connect with me:</h3>
+____________________
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/xianha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xian harding anglés" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="40"/> </a> <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
 </a> </p>
 
+
+____________________
+
+<h2 align="center">Data Analysis Certifications and Badges <img align="center"/></h2>  
+
+<p align="center">
+  <img src="https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q" alt="Data Analysis and Presentation Skills: the PwC Approach" height="100"/>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q"><img src="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url" alt="Datadog Fundamentals I" height="100"/></a> 
+  <a href="https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1"><img src="hhttps://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1" alt="DNYUx.DBMS.2: Advanced Database Queries" height="100"/></a> 
+
+
+____________________
 
 <h2 align="center">My GitHub Stats <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
 
