@@ -37,12 +37,12 @@ ____________________
 <h2 align="center">Data Analysis Certifications and Badges <img align="center"/></h2>  
 
 <p align="center">
-  <img src="https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q" alt="Data Analysis and Presentation Skills: the PwC Approach" height="100"/>          
+  <a href="https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q"><img src="/images/data_pwc.png" alt="Data Analysis and Presentation Skills: the PwC Approach" height="100"/></a>       
       
-  <a href="https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1"><img src="hhttps://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1" alt="DNYUx.DBMS.2: Advanced Database Queries" height="100"/></a> 
+  <a href="https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1"><img src="/images/nyux_sql.png" alt="NYUx.DBMS.2: Advanced Database Queries" height="100"/></a>            
 
-  <a href="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url"><img src="https://images.credly.com/images/26692a79-c6c3-48c0-bfba-8543d6fc2cec/image.png" alt="Datadog Fundamentals I" height="100"/></a>   
-
+  <a href="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url"><img src="https://images.credly.com/images/26692a79-c6c3-48c0-bfba-8543d6fc2cec/image.png" alt="Datadog Fundamentals I" height="100"/></a>          
+</p>
 ____________________
 
 <h2 align="center">My GitHub Stats <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
