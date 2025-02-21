@@ -14,25 +14,26 @@
 
 - 📄 Know about my experiences in fintechs and PwC in **[my profile](https://www.linkedin.com/in/xianha/)**
 
-<h3 align="left">My projects:</h3>
+<h3 align="left"> My projects </h3>
 
 - 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
 - 💳 **[Xiso: Payment application database with MySQL](https://github.com/r41ss4/xisov1)**
 - 🛩️ **[Aviation: Collaboration project of Data Analytics with Python](https://github.com/r41ss4/rennes_da)**
 - 📄 **[Excel and fintechs PLIs](https://github.com/r41ss4/fintexcel/tree/main)**
 
-____________________
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/xianha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xian harding anglés" height="30" width="40" /></a>
 </p>
+____________________
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="40"/> </a> <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-2038870-1720083.png?f=webp" alt="python" width="40" height="40"/>
-
-</a> </p>
-
+<h2 align="left"> Languages and Tools </h2>
+<div align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="40"/> </a> <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-2038870-1720083.png?f=webp" alt="python" width="40" height="40"/></a> 
+</p align="left">
 
 ____________________
 
@@ -47,9 +48,8 @@ ____________________
 
 <h3 align="left"> Certifications </h3>
 <div align="left">
-  <a href="https://www.datacamp.com/statement-of-accomplishment/track/7c9c991a1d6b0baa4572e7d90868f4202b92cbbc?raw=1"><img src="/images/data-python-datacamp.png" alt="Data Analytics with Python in Datacamp" height="100"/></a> 
-  <a href="https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q"><img src="/images/data_pwc.png" alt="Data Analysis and Presentation Skills: the PwC Approach" height="100"/></a> 
-  <a href="https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1"><img src="/images/nyux_sql.png" alt="NYUx.DBMS.2: Advanced Database Queries" height="100"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q"><img src="/images/data_pwc.png" alt="Data Analysis and Presentation Skills: the PwC Approach" height="200"/></a> 
+  <a href="https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1"><img src="/images/nyux_sql.png" alt="NYUx.DBMS.2: Advanced Database Queries" height="200"/></a>
 </p align="left">
 ____________________
 
