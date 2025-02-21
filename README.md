@@ -34,14 +34,23 @@ ____________________
 </a> </p>
 
 
+____________________
 
-<h2 align="center">Data Analysis Certifications and Badges <img align="center"/></h2>  
+<!-- Data Analysis Badges & Certifications -->
+<h2 align="center"> Data Analysis Badges </h2>
+
+<div align="center">
+  <a href="https://www.datacamp.com/statement-of-accomplishment/track/7c9c991a1d6b0baa4572e7d90868f4202b92cbbc?raw=1"><img src="/images/data-python-datacamp.png" alt="Data Analytics with Python in Datacamp" height="100"/></a> 
+</div>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url"><img src="https://images.credly.com/images/26692a79-c6c3-48c0-bfba-8543d6fc2cec/image.png" alt="Datadog Fundamentals I" height="100"/></a><a href="https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q"><img src="/images/data_pwc.png" alt="Data Analysis and Presentation Skills: the PwC Approach" height="100"/></a> <a href="https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1"><img src="/images/nyux_sql.png" alt="NYUx.DBMS.2: Advanced Database Queries" height="100"/></a>
+  <a href="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url"><img src="https://images.credly.com/images/26692a79-c6c3-48c0-bfba-8543d6fc2cec/image.png" alt="Datadog Fundamentals I" height="100"/></a> 
 </p align="center">
 
 
+____________________
+
+<!--- GitHub Stats -->
 <h2 align="center">My GitHub Stats <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=r41ss4&theme=aura&show_icons=true)](https://github.com/r41ss4)
