@@ -42,8 +42,9 @@ ____________________
 <h3 align="left"> Badges </h3>
 
 <div align="left">
-  <a href="https://www.datacamp.com/statement-of-accomplishment/track/7c9c991a1d6b0baa4572e7d90868f4202b92cbbc?raw=1"><img src="/images/data-python-datacamp.png" alt="Data Analytics with Python in Datacamp" height="200"/></a> 
+  <a href="https://www.datacamp.com/statement-of-accomplishment/track/7c9c991a1d6b0baa4572e7d90868f4202b92cbbc?raw=1"><img src="/images/data-python-datacamp.png" alt="Data Analytics with Python by Datacamp" height="200"/></a> 
   <a href="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url"><img src="/images/datadog-fundamental.png" alt="Datadog Fundamentals I" height="200"/></a> 
+  <a href="https://courses.cognitiveclass.ai/certificates/cb2dfbb4ed08420c81b9524e831e7270"><img src="/images/data-analysis-using-python.png" alt="Data Analysis with Python by IBM" height="200"/></a> 
 </p align="left">
 
 <h3 align="left"> Certifications </h3>
