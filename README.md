@@ -66,7 +66,8 @@ ____________________
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=r41ss4&theme=aura&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=r41ss4&theme=aura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=r41ss4&theme=aura)](https://git.io/streak-stats)       
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=r41ss4&theme=aura&show_icons=true&t)](https://github.com/r41ss4/github-readme-stats) 
+
 
 </div>
