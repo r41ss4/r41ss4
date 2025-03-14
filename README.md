@@ -30,9 +30,9 @@ ____________________
 
 <h2 align="left"> Languages and Tools </h2>
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql" />        
-  <img src="https://img.shields.io/badge/R_Studio-276DC3?logo=r" alt="R" />         
-  <img src="https://img.shields.io/badge/Google_Sheets_%2F_Excel-34A853?style=plastic&logo=googlesheets&logoColor=white" alt="excel" />         
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql" />  
+  <img src="https://img.shields.io/badge/Google_Sheets_%2F_Excel-34A853?style=plastic&logo=googlesheets&logoColor=white" alt="excel" />       
+  <img src="https://img.shields.io/badge/R_Studio-276DC3?logo=r" alt="R" />                 
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git badge"/>            
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff" alt="Python"/>
 </p align="left">
@@ -46,9 +46,8 @@ ____________________
 <div align="left">
   <a href="https://www.credly.com/badges/65efd81d-5470-4c2d-9975-bb43cd16b858/public_url"><img src="/images/datadog-fundamental.png" alt="Datadog Fundamentals I" height="100"/></a>        
   <a href="https://www.datacamp.com/statement-of-accomplishment/track/7c9c991a1d6b0baa4572e7d90868f4202b92cbbc?raw=1"><img src="/images/data-python-datacamp.png" alt="Data Analytics with Python by Datacamp" height="100"/></a>       
-  <a href="https://courses.cognitiveclass.ai/certificates/cb2dfbb4ed08420c81b9524e831e7270"><img src="/images/data-analysis-using-python.png" alt="Data Analysis with Python by IBM" height="100"/></a>      
-  <a href="https://www.datacamp.com/skill-verification/DL0031820519372"><img src="/images/data-lit-datacamp.png" alt="Data Literacy by Datacamp" height="100"/></a> 
-
+  <a href="https://courses.cognitiveclass.ai/certificates/cb2dfbb4ed08420c81b9524e831e7270"><img src="/images/data-analysis-using-python.png" alt="Data Analysis with Python by IBM" height="100"/></a>           
+  <a href="https://www.datacamp.com/skill-verification/DL0031820519372"><img src="/images/data-python-datacamp.png" alt="Data Literacy by Datacamp" height="100"/></a>       
 </p align="left">
 
 <h3 align="left"> Certifications </h3>
@@ -63,7 +62,11 @@ ____________________
 
 <!--- GitHub Stats -->
 <h2 align="left">My GitHub Stats <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="logo" height="50" width="50" /></h2>
+              
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=r41ss4&theme=aura&show_icons=true)](https://github.com/r41ss4)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=r41ss4&theme=aura&show_icons=true&t)](https://github.com/r41ss4/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=r41ss4&theme=aura&show_icons=true)          
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=r41ss4&theme=aura)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=r41ss4&theme=aura&show_icons=true&t)](https://github.com/r41ss4/github-readme-stats) 
