@@ -30,9 +30,10 @@ ____________________
 
 <h2 align="left"> Languages and Tools </h2>
 <div align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="40"/> </a> <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-2038870-1720083.png?f=webp" alt="python" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql" /> </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R_Studio-276DC3?logo=r" alt="R" /> </a> <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_Sheets_%2F_Excel-34A853?style=plastic&logo=googlesheets&logoColor=white" alt="excel" /> 
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git badge"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff" alt="Python"/>
 </p align="left">
 
 ____________________
