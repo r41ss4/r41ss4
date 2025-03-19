@@ -10,11 +10,11 @@
 
 - 💬 I can speak fluently **English and Spanish**
 
-- 📫 How to reach me **xian.h.a@hotmail.com** or **+598 93483312**
+- 📫 How to reach me **xian.h.a@hotmail.com**
 
 - 📄 Know about my experiences in fintechs and PwC in **[my profile](https://www.linkedin.com/in/xianha/)**
 
-<h3 align="left"> My projects </h3>
+<h3 align="left"> My spotlight projects </h3>
 
 - 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
 - 💳 **[Xiso: Payment application database with MySQL](https://github.com/r41ss4/xisov1)**
@@ -55,7 +55,7 @@ ____________________
 
 * **[Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/account/accomplishments/specialization/ZO09YXS29B7Q)**
 
-* **[NYUx.DBMS.2: Advanced Database Queries](https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1)**  
+* **[Advanced Database Queries by NYU (Online)](https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1)**  
 
 * **[Get Started with Looker by Google Cloud](https://www.credly.com/badges/bac495fd-9b7c-4103-9562-42e261155153)**
 ____________________
