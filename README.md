@@ -57,7 +57,9 @@ ____________________
 
 * **[Advanced Database Queries by NYU (Online)](https://courses.edx.org/certificates/caee4a33d05548e6926ab7d7b43b9ff1)**  
 
-* **[Get Started with Looker by Google Cloud](https://www.credly.com/badges/bac495fd-9b7c-4103-9562-42e261155153)**
+* **[Get Started with Looker by Google Cloud](https://www.credly.com/badges/bac495fd-9b7c-4103-9562-42e261155153)**       
+
+* **[Analyze and Visualize Looker Data by Google Cloud](https://www.credly.com/badges/48d88797-aa79-480c-b484-65b17f371569/public_url)**      
 ____________________
 
 <!--- GitHub Stats -->
