@@ -16,10 +16,10 @@
 
 <h3 align="left"> My spotlight projects </h3>
 
-- 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
 - 💳 **[Xiso: Payment application database with MySQL](https://github.com/r41ss4/xisov1)**
-- 🛩️ **[Aviation: Collaboration project of Data Analytics with Python](https://github.com/r41ss4/rennes_da)**
-- 📄 **[Excel and fintechs PLIs](https://github.com/r41ss4/fintexcel/tree/main)**
+- 📄 **[Sephora, Clustering & Sentimental Analysis: Group project of Data Science with Python](https://github.com/r41ss4/rennes_ds)**
+- 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
+- 🛩️ **[Aviation: Group project of Data Analytics with Python](https://github.com/r41ss4/rennes_da)**
 
 
 <h2 align="left">Connect with me </h2>
