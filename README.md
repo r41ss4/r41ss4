@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently doing **[MSc in International Management in Data Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)**
 
-- 🌱 I’m currently learning **Python and Data Management**
-
 - 🤝 I’m currently working as a **Senior Researcher in Research & Innovation Center in [WTW](https://careers.wtwco.com/experienced-professionals-health-wealth-career)**
+
+- 🌱 I’m currently learning **Data Pipeline Design**
 
 - 💬 I can speak fluently **English and Spanish**
 
