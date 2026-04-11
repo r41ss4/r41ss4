@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and Data Management**
 
-- 🤝 I’m looking for jobs in **Data Analytics, preferably in finance**
+- 🤝 I’m currently working as a **Senior Researcher in Research & Innovation Center in [WTW](https://careers.wtwco.com/experienced-professionals-health-wealth-career)**
 
 - 💬 I can speak fluently **English and Spanish**
 
