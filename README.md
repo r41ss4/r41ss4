@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Xian 🔷</h1>
 
-<p align="left"> I am an aspiring Data Analyst with a focus on international finance and services. Drawing from my experience in the fintech industry, I have developed multiple skills in understanding complex data and a keen eye for detail. My problem-solving mindset enables me to effectively analyze data and uncover valuable trends that drive informed decision-making.</p>
+<p align="left"> I am an aspiring Data Analyst with a focus on international finance and services. Drawing from my experience in the fintech industry, I have developed multiple skills in understanding complex data and a keen eye for detail. I keep a  problem-solving mindset for effectively analyze data and uncover valuable trends that drive informed decision-making.</p>
 
 - 🔭 I’m currently doing **[MSc in International Management in Data Analytics](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-management/)**
 
@@ -12,14 +12,14 @@
 
 - 📫 How to reach me **xian.h.a@hotmail.com**
 
-- 📄 Know about my experiences in fintechs and PwC in **[my profile](https://www.linkedin.com/in/xianha/)**
+- 📄 Know about my experiences in fintechs, PwC and WTW in **[my profile](https://www.linkedin.com/in/xianha/)**
 
 <h3 align="left"> My spotlight projects </h3>
 
-- 💳 **[Xiso: Payment application database with MySQL](https://github.com/r41ss4/xisov1)**
-- 📄 **[Sephora, Clustering & Sentimental Analysis: Group project of Data Science with Python](https://github.com/r41ss4/rennes_ds)**
+- 💳 **[Xiso: Payment application database using MySQL](https://github.com/r41ss4/xisov2)**
+- 📄 **[Sephora, Clustering & Sentimental Analysis: Group project using Python](https://github.com/r41ss4/rennes_ds)**
 - 📚 **[R Studio and Descriptive Analysis](https://www.github.com/r41ss4/r_stat_ort)**
-- 🛩️ **[Aviation: Group project of Data Analytics with Python](https://github.com/r41ss4/rennes_da)**
+- 🛩️ **[Aviation: Group project using Python](https://github.com/r41ss4/rennes_da)**
 
 
 <h2 align="left">Connect with me </h2>
