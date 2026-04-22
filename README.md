@@ -58,7 +58,8 @@
 
 
 </div>
-____________________
+
+---
 
 <h3 align="left"> Data Badges  & Certifications </h3>
 <h4 align="left"> Badges </h4>
